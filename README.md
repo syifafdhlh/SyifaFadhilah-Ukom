@@ -4,7 +4,7 @@ Calistung
 Version 1.0.1 - Tue 25 Feb 2015
 
 by Syifa Fadhilah Putri
-<http://blablabla/bla/>
+<http://ask.fm/syifafdhlh>
 
 Sinopsis Aplikasi
 -----------------
