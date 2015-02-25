@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Calistung</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_menu_home">MenuHome</string>
+    <string name="title_activity_membaca">MembacaActivity</string>
+    <string name="title_activity_menulis">MenulisActivity</string>
+    <string name="title_activity_menghitung">MenghitungActivity</string>
+    <string name="title_activity_menulis_angka">MenulisAngkaActivity</string>
+    <string name="title_activity_membaca_b">MembacaB</string>
+    <string name="title_activity_membaca_c">MembacaC</string>
+    <string name="title_activity_membaca_d">MembacaD</string>
+    <string name="title_activity_membaca_e">MembacaE</string>
+    <string name="title_activity_menghitung2">Menghitung2</string>
+    <string name="title_activity_menghitung3">Menghitung3</string>
+    <string name="title_activity_menghitung4">Menghitung4</string>
+    <string name="title_activity_menghitung5">Menghitung5</string>
+    <string name="title_activity_menghitung6">Menghitung6</string>
+    <string name="title_activity_menghitung7">Menghitung7</string>
+    <string name="title_activity_menghitung8">Menghitung8</string>
+    <string name="title_activity_menghitung9">Menghitung9</string>
+    <string name="title_activity_menghitung10">Menghitung10</string>
+    <string name="title_activity_menilis_c">MenilisC</string>
+    <string name="title_activity_menulis_c">MenulisC</string>
+    <string name="title_activity_menulis_d">MenulisD</string>
+    <string name="title_activity_menulis_e">MenulisE</string>
+    <string name="title_activity_menulis_dua">MenulisDua</string>
+    <string name="title_activity_menulis_tiga">MenulisTiga</string>
+    <string name="title_activity_menulis_empat">MenulisEmpat</string>
+    <string name="title_activity_menulis_lima">MenulisLima</string>
+    <string name="title_activity_menulis_enam">MenulisEnam</string>
+    <string name="title_activity_menulis_tujuh">MenulisTujuh</string>
+    <string name="title_activity_menulis_delapan">MenulisDelapan</string>
+    <string name="title_activity_menulis_sembilan">MenulisSembilan</string>
+    <string name="title_activity_menulis_sepuluh">MenulisSepuluh</string>
+    <string name="title_activity_menulis_satu">MenulisSatu</string>
+    <string name="title_activity_kuis">KuisA</string>
+    <string name="title_activity_kuis_b">KuisB</string>
+    <string name="title_activity_kuis_c">KuisC</string>
+    <string name="title_activity_kuis_d">KuisD</string>
+    <string name="title_activity_kuis_e">KuisE</string>
+    <string name="title_activity_kuis1">Kuis1</string>
+    <string name="title_activity_kuis2">Kuis2</string>
+    <string name="title_activity_kuis3">Kuis3</string>
+    <string name="title_activity_kuis4">Kuis4</string>
+    <string name="title_activity_kuis5">Kuis5</string>
+    <string name="title_activity_membaca_f">MembacaF</string>
+    <string name="title_activity_membaca_g">MembacaG</string>
+    <string name="title_activity_membaca_h">MembacaH</string>
+    <string name="title_activity_membaca_i">MembacaI</string>
+    <string name="title_activity_menghitung_j">MenghitungJ</string>
+    <string name="title_activity_membaca_j">MembacaJ</string>
+    <string name="title_activity_kuis6">Kuis6</string>
+    <string name="title_activity_kuis7">Kuis7</string>
+    <string name="title_activity_kuis8">Kuis8</string>
+    <string name="title_activity_kuis10">Kuis10</string>
+    <string name="title_activity_kuis9">Kuis9</string>
+    <string name="title_activity_salah">Salah</string>
+    <string name="title_activity_benar">Benar</string>
+    <string name="title_activity_about">About</string>
+
+</resources>
